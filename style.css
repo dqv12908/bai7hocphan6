@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+#navbar{
+    display: flex;
+}
+
+#navbar img{
+    width: 120px;
+    height: 50px;
+}
+
+
+#navbar ul{
+    padding-left: 200px;
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+}
+
+#navbar ul li{
+    padding: 20px;
+    font-weight: 600;
+
+}
+
+#IMAGE{
+    float: right;
+}
+
+#body{
+    padding: 50px;
+}
+
+#body p{
+    font-size: 20 px;
+    width: 60%;
+    
+}
+
+#body img{
+    width: 35%;
+}
